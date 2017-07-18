@@ -1,3 +1,7 @@
 wind
 sun
 rain
+
+oh ye
+
+var a =12;
